@@ -1,2 +1,2 @@
 # MinesweeperPlus
-FP LAB GIGA
+Made by: Bismantaka Revano D.
