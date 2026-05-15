@@ -70,7 +70,7 @@ Here is a brief overview of the files in this project:
 
 ## 👤 Credits
 
-**Made by:** Bismantaka Revano D.
+**Made by:** Bismantaka Revano D., Razan Widya Reswara, Ramasyamsi Ahmad Shabri
 
 ---
 *Enjoy the game! If you encounter any bugs, feel free to open an issue in the repository.*
